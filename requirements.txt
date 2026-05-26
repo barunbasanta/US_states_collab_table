@@ -4,5 +4,4 @@ numpy
 matplotlib
 pyshp
 shapely
-basemap
 openpyxl
