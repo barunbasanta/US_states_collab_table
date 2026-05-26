@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+pyshp
+shapely
+basemap
+openpyxl
